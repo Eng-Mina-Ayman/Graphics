@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609350450 source:d:\my projects\graphics\3d_project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<GL/freeglut.h>
+
