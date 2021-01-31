@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607719246 source:d:\my projects\graphics\7week\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
+1605986535 source:d:\my projects\graphics\7week\untitled1.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
